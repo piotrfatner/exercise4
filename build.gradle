@@ -25,6 +25,8 @@ ext {
                 "org.apache.activemq:activemq-broker:${activemqVersion}",
                 "org.apache.activemq:activemq-kahadb-store:${activemqVersion}",
                 "org.apache.activemq:activemq-spring:${activemqVersion}",
+                "org.apache.activemq:activemq-core:${activemqVersion}",
+
         ],
 		
         log4j: [

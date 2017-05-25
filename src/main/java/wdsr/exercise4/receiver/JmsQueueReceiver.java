@@ -18,7 +18,7 @@ public class JmsQueueReceiver {
 	 * @param queueName Name of the queue to consume messages from.
 	 */
 	public JmsQueueReceiver(final String queueName) {
-		// TODO
+
 	}
 
 	/**
